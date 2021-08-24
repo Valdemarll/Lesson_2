@@ -8,7 +8,7 @@ public class Main {
 
         human1.setFirst_name("Олег");
         human1.setMiddle_name("Кириллович");
-        human2.setLast_name("Романович");
+        human2.setLast_name("Романов");
 
         System.out.println(human1);
         System.out.println(human2);
