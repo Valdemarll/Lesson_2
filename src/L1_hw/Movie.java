@@ -32,6 +32,6 @@ public class Movie {
 
     @Override
     public String toString(){
-        return "Сценарий '" + title + "' содержит в себе " + pageCount + " страниц(ы/у). Режиссер сценария: " + director;
+        return "Сценарий к фильму '" + title + "' содержит в себе " + pageCount + " страниц(ы/у). Режиссер сценария: " + director;
     }
 }
